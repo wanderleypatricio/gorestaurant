@@ -8,10 +8,6 @@
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2306b656?style=flat-square">
   </a>
-  
-  <a href="https://www.linkedin.com/in/rafaeldcmartins/">
-    <img alt="Solved by Rafael Martins" src="https://img.shields.io/badge/solved%20by-Rafael%20Martins-%2306b656?style=flat-square">
-  </a>
 </p>
 
 <br>
